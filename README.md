@@ -1,6 +1,6 @@
-# 🎙️ ASR Noise Reduction & Word Error Rate (WER) Evaluation
+#  ASR Noise Reduction & Word Error Rate (WER) Evaluation
 
-## 📌 Overview
+##  Overview
 
 This project investigates how noise reduction techniques improve the performance of an Automatic Speech Recognition (ASR) system.
 
